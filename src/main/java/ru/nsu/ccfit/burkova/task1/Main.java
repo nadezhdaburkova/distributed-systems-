@@ -3,9 +3,7 @@ package ru.nsu.ccfit.burkova.task1;
 import java.sql.*;
 import java.util.Date;
 
-/**
- * Created by Alexey on 11.05.2014.
- */
+
 public class Main {
 
 	private static final String DB_URL = "jdbc:h2:mem:~/TEST;DB_CLOSE_DELAY=-1";
