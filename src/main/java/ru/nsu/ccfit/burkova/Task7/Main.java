@@ -8,9 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 
-/**
- * Created by Alexey on 11.05.2014.
- */
+
 public class Main {
 
 	public static final String FILE_NAME = "output.xml";
