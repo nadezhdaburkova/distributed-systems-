@@ -1,0 +1,43 @@
+<?xml version="1.0" ?>
+<responses>
+    <response id="0"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="1"><!--id: long-->
+        <status>OK</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="2"><!--id: long-->
+        <status>OK</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="3"><!--id: long-->
+        <status>OK</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="4"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="5"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="6"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="7"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="8"><!--id: long-->
+        <status>OK</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+    <response id="9"><!--id: long-->
+        <status>ERROR</status><!--two possible values: OK or ERROR-->
+        <message>Some text...</message><!--optional string message-->
+    </response>
+</responses>
